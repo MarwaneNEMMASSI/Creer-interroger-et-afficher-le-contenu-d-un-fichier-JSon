@@ -1,0 +1,44 @@
+li
+{
+    list-style-type: none;
+}
+thead
+{
+    text-align: center;
+}
+img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+#SearchInput
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#212529;
+    border-radius: 2px;
+}
+
+@media only screen and (max-width: 600px)
+{
+    img
+        {
+            display : flex;
+            justify-content: center;
+        }
+    #search
+        {
+            visibility: visible;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+        }
+    #UserInput
+        {
+            visibility: hidden;
+        }
+}
+

@@ -1,0 +1,227 @@
+[
+    {
+        "titre": "Vol au dessus d'un nid de coco",
+        "realisateur": "Milos Forman",
+        "duree": "134",
+        "production": "1975",
+        "poster":"images/vol.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Jack",
+                "nom": "nicholson",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Louise",
+                "nom": "Fletcher",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Danny",
+                "nom": "DeVito",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The usual suspects",
+        "realisateur": "Bryan singer",
+        "duree": "104",
+        "production": "1995",
+        "poster":"images/usual.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Kevin",
+                "nom": "spacey",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Benicio",
+                "nom": "Del toro",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Danny",
+                "nom": "DeVito",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The big lebowski",
+        "realisateur": "Ethan coen",
+        "duree": "117",
+        "production": "1998",
+        "poster":"images/lebowski.png",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Jeff",
+                "nom": "bridges",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "John",
+                "nom": "Goodman",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Steve",
+                "nom": "Buscemi",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "Reservoir dogs",
+        "realisateur": "Quentin tarantino",
+        "duree": "99",
+        "production": "1992",
+        "poster":"images/reservoir.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Quentin",
+                "nom": "tarantino",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Harvey",
+                "nom": "Keitel",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Michael",
+                "nom": "Madsen",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The Godfather",
+        "realisateur": "Francis Ford coppola",
+        "duree": "175",
+        "production": "1972",
+        "poster":"images/godfather1.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Marlon",
+                "nom": "Brando",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Al",
+                "nom": "Pacino",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "James",
+                "nom": "caan",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The Godfather Part II",
+        "realisateur": "Francis Ford coppola",
+        "duree": "202",
+        "production": "1974",
+        "poster":"images/godfather2.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Robert",
+                "nom": "De niro",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Al",
+                "nom": "Pacino",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "James",
+                "nom": "caan",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The Godfather Part III",
+        "realisateur": "Francis Ford coppola",
+        "duree": "162",
+        "production": "1990",
+        "poster":"images/godfather3.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Al",
+                "nom": "Pacino",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Sofia",
+                "nom": "coppola",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Andy",
+                "nom": "garcia",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "Heat",
+        "realisateur": "Michael Mann",
+        "duree": "162",
+        "production": "1995",
+        "poster":"images/heat.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Al",
+                "nom": "Pacino",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Robert",
+                "nom": "De niro",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Val",
+                "nom": "Kilmer",
+                "nationnalité": "Américaine"
+            }
+        ]
+    },
+    {
+        "titre": "The Terminal",
+        "realisateur": "Steven Spielberg",
+        "duree": "128",
+        "production": "2004",
+        "poster":"images/terminal.jpg",
+        "festivals": ["festival de cannes", "festival de venise"],
+        "acteurs": [
+            {
+                "prénom": "Tom",
+                "nom": "Hanks",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Catherine",
+                "nom": "Zeta-Jones",
+                "nationnalité": "Américaine"
+            },
+            {
+                "prénom": "Diego",
+                "nom": "Luna",
+                "nationnalité": "Américaine"
+            }
+        ]
+    }
+]
