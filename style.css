@@ -29,16 +29,6 @@ img
             display : flex;
             justify-content: center;
         }
-    #search
-        {
-            visibility: visible;
-            margin-bottom: 20px;
-            display: flex;
-            justify-content: center;
-        }
-    #UserInput
-        {
-            visibility: hidden;
-        }
+
 }
 
